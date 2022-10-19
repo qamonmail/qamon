@@ -1,0 +1,614 @@
+{
+  "add-contact": [
+    {
+      "type": 0,
+      "value": "연락처 추가"
+    }
+  ],
+  "address": [
+    {
+      "type": 0,
+      "value": "연락처:"
+    }
+  ],
+  "all": [
+    {
+      "type": 0,
+      "value": "전체"
+    }
+  ],
+  "already-registered": [
+    {
+      "type": 0,
+      "value": "이미 Qamon을 사용하고 계신 유저입니다"
+    }
+  ],
+  "archive": [
+    {
+      "type": 0,
+      "value": "아카이브"
+    }
+  ],
+  "attach": [
+    {
+      "type": 0,
+      "value": "파일첨부"
+    }
+  ],
+  "attached": [
+    {
+      "type": 0,
+      "value": "첨부됨"
+    }
+  ],
+  "attachments": [
+    {
+      "type": 0,
+      "value": "첨부파일"
+    }
+  ],
+  "attachments-must": [
+    {
+      "type": 0,
+      "value": "첨부 파일은 10MB를 초과할 수 없습니다!"
+    }
+  ],
+  "auth-was-rejected": [
+    {
+      "type": 0,
+      "value": "승인이 거부되었습니다"
+    }
+  ],
+  "blockchains": [
+    {
+      "type": 0,
+      "value": "블록체인:"
+    }
+  ],
+  "bookmarks": [
+    {
+      "type": 0,
+      "value": "북마크"
+    }
+  ],
+  "change": [
+    {
+      "type": 0,
+      "value": "변경"
+    }
+  ],
+  "clear": [
+    {
+      "type": 0,
+      "value": "정리"
+    }
+  ],
+  "color-theme": [
+    {
+      "type": 0,
+      "value": "컬러테마"
+    }
+  ],
+  "compose-email": [
+    {
+      "type": 0,
+      "value": "메일쓰기"
+    }
+  ],
+  "confirm": [
+    {
+      "type": 0,
+      "value": "확인"
+    }
+  ],
+  "connect": [
+    {
+      "type": 0,
+      "value": "연결"
+    }
+  ],
+  "connect-your-wallets": [
+    {
+      "type": 0,
+      "value": "지갑을 연결하세요"
+    }
+  ],
+  "contacts": [
+    {
+      "type": 0,
+      "value": "연락처"
+    }
+  ],
+  "continue": [
+    {
+      "type": 0,
+      "value": "계속하기"
+    }
+  ],
+  "create-folder": [
+    {
+      "type": 0,
+      "value": "폴더 만들기"
+    }
+  ],
+  "create-password": [
+    {
+      "type": 0,
+      "value": "암호 만들기"
+    }
+  ],
+  "days-ago": [
+    {
+      "type": 0,
+      "value": "days ago"
+    }
+  ],
+  "decrypt-message": [
+    {
+      "type": 0,
+      "value": "메시지 해독"
+    }
+  ],
+  "delete-all": [
+    {
+      "type": 0,
+      "value": "전체 삭제"
+    }
+  ],
+  "description": [
+    {
+      "type": 0,
+      "value": "설명:"
+    }
+  ],
+  "discard": [
+    {
+      "type": 0,
+      "value": "작성취소"
+    }
+  ],
+  "drafts": [
+    {
+      "type": 0,
+      "value": "임시보관함"
+    }
+  ],
+  "edit": [
+    {
+      "type": 0,
+      "value": "편집"
+    }
+  ],
+  "edit-contact": [
+    {
+      "type": 0,
+      "value": "연락처 편집"
+    }
+  ],
+  "edit-folder": [
+    {
+      "type": 0,
+      "value": "폴더 편집"
+    }
+  ],
+  "empty-address": [
+    {
+      "type": 0,
+      "value": "주소 비우기"
+    }
+  ],
+  "empty-address-doesNotExist": [
+    {
+      "type": 0,
+      "value": "존재하지 않는 메일주소입니다"
+    }
+  ],
+  "enter-address": [
+    {
+      "type": 0,
+      "value": "주소 입력"
+    }
+  ],
+  "enter-description": [
+    {
+      "type": 0,
+      "value": "설명 입력"
+    }
+  ],
+  "enter-message": [
+    {
+      "type": 0,
+      "value": "메시지 입력"
+    }
+  ],
+  "enter-name": [
+    {
+      "type": 0,
+      "value": "이름 입력"
+    }
+  ],
+  "enter-qamon-password": [
+    {
+      "type": 0,
+      "value": "Qamon 암호 입력"
+    }
+  ],
+  "enter-subject": [
+    {
+      "type": 0,
+      "value": "주제 입력"
+    }
+  ],
+  "enter-your-password": [
+    {
+      "type": 0,
+      "value": "암호를 입력하세요"
+    }
+  ],
+  "enter-your-signature": [
+    {
+      "type": 0,
+      "value": "서명을 입력하세요"
+    }
+  ],
+  "error-404": [
+    {
+      "type": 0,
+      "value": "404 오류"
+    }
+  ],
+  "error-500": [
+    {
+      "type": 0,
+      "value": "500 오류"
+    }
+  ],
+  "ever-wallet": [
+    {
+      "type": 0,
+      "value": "에버월렛"
+    }
+  ],
+  "everscale": [
+    {
+      "type": 0,
+      "value": "에버스케일"
+    }
+  ],
+  "files": [
+    {
+      "type": 0,
+      "value": "파일"
+    }
+  ],
+  "first-time": [
+    {
+      "type": 0,
+      "value": "아니오, 처음입니다"
+    }
+  ],
+  "folder": [
+    {
+      "type": 0,
+      "value": "폴더"
+    }
+  ],
+  "folders": [
+    {
+      "type": 0,
+      "value": "폴더"
+    }
+  ],
+  "folders-ids": [
+    {
+      "type": 0,
+      "value": "폴더:"
+    }
+  ],
+  "go-back": [
+    {
+      "type": 0,
+      "value": "뒤로 돌아가기"
+    }
+  ],
+  "have-you-ever": [
+    {
+      "type": 0,
+      "value": "Qamon을 사용해 보신 적이 있으신가요?"
+    }
+  ],
+  "hours-ago": [
+    {
+      "type": 0,
+      "value": "몇 시간 전"
+    }
+  ],
+  "in-web-version": [
+    {
+      "type": 0,
+      "value": "웹 버전에서만 다운로드 가능"
+    }
+  ],
+  "inbox": [
+    {
+      "type": 0,
+      "value": "받은메일함"
+    }
+  ],
+  "incorrect-password": [
+    {
+      "type": 0,
+      "value": "비밀번호가 잘못되었습니다. 다시 시도하세요"
+    }
+  ],
+  "install": [
+    {
+      "type": 0,
+      "value": "설치"
+    }
+  ],
+  "internal-error": [
+    {
+      "type": 0,
+      "value": "내부 오류"
+    }
+  ],
+  "ive-used": [
+    {
+      "type": 0,
+      "value": "예, 사용해 본 적이 있습니다"
+    }
+  ],
+  "just-now": [
+    {
+      "type": 0,
+      "value": "방금"
+    }
+  ],
+  "language": [
+    {
+      "type": 0,
+      "value": "언어"
+    }
+  ],
+  "logout": [
+    {
+      "type": 0,
+      "value": "로그아웃"
+    }
+  ],
+  "mail": [
+    {
+      "type": 0,
+      "value": "메일"
+    }
+  ],
+  "main-folders": [
+    {
+      "type": 0,
+      "value": "주요폴더"
+    }
+  ],
+  "message": [
+    {
+      "type": 0,
+      "value": " 내용:"
+    }
+  ],
+  "minutes-ago": [
+    {
+      "type": 0,
+      "value": "몇분 전에"
+    }
+  ],
+  "name": [
+    {
+      "type": 0,
+      "value": "이름:"
+    }
+  ],
+  "no-mails": [
+    {
+      "type": 0,
+      "value": "메일이 없습니다"
+    }
+  ],
+  "no-new-mail": [
+    {
+      "type": 0,
+      "value": "새 메일 없음"
+    }
+  ],
+  "no-sent-messages": [
+    {
+      "type": 0,
+      "value": "보낸 메시지 없음"
+    }
+  ],
+  "ok": [
+    {
+      "type": 0,
+      "value": "확인"
+    }
+  ],
+  "page-not-found": [
+    {
+      "type": 0,
+      "value": "페이지를 찾지 못했습니다"
+    }
+  ],
+  "password-must-match": [
+    {
+      "type": 0,
+      "value": "암호가 일치해야 합니다"
+    }
+  ],
+  "please-save": [
+    {
+      "type": 0,
+      "value": "반드시 안전하게 보관하세요. 잃으신다면 귀하의 메일에 더 이상 접속할 수 없게 됩니다"
+    }
+  ],
+  "qamon-doesnt-save": [
+    {
+      "type": 0,
+      "value": "Qamon은 어떤 경우에도 사용자의 암호를 전혀 저장하지 않기 때문에 암호분실의 경우 그를 도울 방법이 존재하지 않습니다"
+    }
+  ],
+  "repeat-qamon-password": [
+    {
+      "type": 0,
+      "value": "Qamon 암호 반복"
+    }
+  ],
+  "repeat-your-password": [
+    {
+      "type": 0,
+      "value": "암호를 반복입력하세요"
+    }
+  ],
+  "reply": [
+    {
+      "type": 0,
+      "value": "답장"
+    }
+  ],
+  "select": [
+    {
+      "type": 0,
+      "value": "선택"
+    }
+  ],
+  "send": [
+    {
+      "type": 0,
+      "value": "보내기"
+    }
+  ],
+  "send-message": [
+    {
+      "type": 0,
+      "value": "메시지 보내기"
+    }
+  ],
+  "sent": [
+    {
+      "type": 0,
+      "value": "보낸메일함"
+    }
+  ],
+  "settings": [
+    {
+      "type": 0,
+      "value": "설정"
+    }
+  ],
+  "short-password": [
+    {
+      "type": 0,
+      "value": "암호가 너무 짧습니다- 최소 8자여야 합니다"
+    }
+  ],
+  "signature": [
+    {
+      "type": 0,
+      "value": "서명"
+    }
+  ],
+  "subject": [
+    {
+      "type": 0,
+      "value": " 제목:"
+    }
+  ],
+  "subject-too-long": [
+    {
+      "type": 0,
+      "value": "제목이 너무 깁니다"
+    }
+  ],
+  "submit": [
+    {
+      "type": 0,
+      "value": "보내기"
+    }
+  ],
+  "theme-1": [
+    {
+      "type": 0,
+      "value": "테마1"
+    }
+  ],
+  "theme-2": [
+    {
+      "type": 0,
+      "value": "테마2"
+    }
+  ],
+  "theme-3": [
+    {
+      "type": 0,
+      "value": "테마3"
+    }
+  ],
+  "theme-4": [
+    {
+      "type": 0,
+      "value": "테마4"
+    }
+  ],
+  "theme-5": [
+    {
+      "type": 0,
+      "value": "테마5"
+    }
+  ],
+  "this-password": [
+    {
+      "type": 0,
+      "value": "이 패스워드는 귀하의 메일을 암호화 및 해독하는 데에 쓰입니다"
+    }
+  ],
+  "to": [
+    {
+      "type": 0,
+      "value": "받는사람:"
+    }
+  ],
+  "to-continue": [
+    {
+      "type": 0,
+      "value": "계속하려면 메일 옆 자물쇠 아이콘을 눌러 암호를 해독하십시오"
+    }
+  ],
+  "type-here": [
+    {
+      "type": 0,
+      "value": "여기에 기입하세요"
+    }
+  ],
+  "we-found": [
+    {
+      "type": 0,
+      "value": "브라우저에서 Qamon과 사용 가능한 지갑을 찾았습니다"
+    }
+  ],
+  "welcome": [
+    {
+      "type": 0,
+      "value": "Qamon에 오신 것을 환영합니다"
+    }
+  ],
+  "your-drafts-mail": [
+    {
+      "type": 0,
+      "value": "귀하의 메일 초안은 브라우저 자체에 저장됩니다. 따라서 귀하께서 브라우저의 캐시(cache)를 비우시거나 타 기기를 이용하여 접속한 경우에는 초안을 보실 수 없습니다"
+    }
+  ],
+  "your-gate": [
+    {
+      "type": 0,
+      "value": "현존하는 가장 강력한 보안의 의사소통 시스템"
+    }
+  ]
+}

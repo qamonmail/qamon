@@ -1,0 +1,608 @@
+{
+  "add-contact": [
+    {
+      "type": 0,
+      "value": "Add contact"
+    }
+  ],
+  "address": [
+    {
+      "type": 0,
+      "value": "Address:"
+    }
+  ],
+  "all": [
+    {
+      "type": 0,
+      "value": "All"
+    }
+  ],
+  "already-registered": [
+    {
+      "type": 0,
+      "value": "Already registered"
+    }
+  ],
+  "archive": [
+    {
+      "type": 0,
+      "value": "Archive"
+    }
+  ],
+  "attach": [
+    {
+      "type": 0,
+      "value": "Attach files"
+    }
+  ],
+  "attached": [
+    {
+      "type": 0,
+      "value": "Attached"
+    }
+  ],
+  "attachments": [
+    {
+      "type": 0,
+      "value": "Attachments"
+    }
+  ],
+  "attachments-must": [
+    {
+      "type": 0,
+      "value": "Attachments must not exceed 10 MB!"
+    }
+  ],
+  "auth-was-rejected": [
+    {
+      "type": 0,
+      "value": "Auth was rejected"
+    }
+  ],
+  "blockchains": [
+    {
+      "type": 0,
+      "value": "Blockchains:"
+    }
+  ],
+  "bookmarks": [
+    {
+      "type": 0,
+      "value": "Bookmarks"
+    }
+  ],
+  "change": [
+    {
+      "type": 0,
+      "value": "Change"
+    }
+  ],
+  "clear": [
+    {
+      "type": 0,
+      "value": "Clear"
+    }
+  ],
+  "color-theme": [
+    {
+      "type": 0,
+      "value": "Color theme"
+    }
+  ],
+  "compose-email": [
+    {
+      "type": 0,
+      "value": "Compose email"
+    }
+  ],
+  "confirm": [
+    {
+      "type": 0,
+      "value": "Confirm"
+    }
+  ],
+  "connect": [
+    {
+      "type": 0,
+      "value": "Connect"
+    }
+  ],
+  "connect-your-wallets": [
+    {
+      "type": 0,
+      "value": "Connect your wallets"
+    }
+  ],
+  "contacts": [
+    {
+      "type": 0,
+      "value": "Contacts"
+    }
+  ],
+  "continue": [
+    {
+      "type": 0,
+      "value": "Continue"
+    }
+  ],
+  "create-folder": [
+    {
+      "type": 0,
+      "value": "Create folder"
+    }
+  ],
+  "create-password": [
+    {
+      "type": 0,
+      "value": "Create password"
+    }
+  ],
+  "days-ago": [
+    {
+      "type": 0,
+      "value": "days ago"
+    }
+  ],
+  "decrypt-message": [
+    {
+      "type": 0,
+      "value": "Decrypt message"
+    }
+  ],
+  "delete-all": [
+    {
+      "type": 0,
+      "value": "Delete all"
+    }
+  ],
+  "description": [
+    {
+      "type": 0,
+      "value": "Description:"
+    }
+  ],
+  "discard": [
+    {
+      "type": 0,
+      "value": "Discard"
+    }
+  ],
+  "drafts": [
+    {
+      "type": 0,
+      "value": "Drafts"
+    }
+  ],
+  "edit": [
+    {
+      "type": 0,
+      "value": "Edit"
+    }
+  ],
+  "edit-contact": [
+    {
+      "type": 0,
+      "value": "Edit contact"
+    }
+  ],
+  "edit-folder": [
+    {
+      "type": 0,
+      "value": "Edit folder"
+    }
+  ],
+  "empty-address": [
+    {
+      "type": 0,
+      "value": "Empty address"
+    }
+  ],
+  "empty-address-doesNotExist": [
+    {
+      "type": 0,
+      "value": "Does not exist"
+    }
+  ],
+  "encrypted-message": [
+    {
+      "type": 0,
+      "value": "This message is encrypted"
+    }
+  ],
+  "enter-address": [
+    {
+      "type": 0,
+      "value": "Enter address"
+    }
+  ],
+  "enter-description": [
+    {
+      "type": 0,
+      "value": "Enter description"
+    }
+  ],
+  "enter-message": [
+    {
+      "type": 0,
+      "value": "Enter message"
+    }
+  ],
+  "enter-name": [
+    {
+      "type": 0,
+      "value": "Enter name"
+    }
+  ],
+  "enter-qamon-password": [
+    {
+      "type": 0,
+      "value": "Enter Qamon password:"
+    }
+  ],
+  "enter-your-password": [
+    {
+      "type": 0,
+      "value": "Enter your password"
+    }
+  ],
+  "enter-your-signature": [
+    {
+      "type": 0,
+      "value": "Enter your signature"
+    }
+  ],
+  "error-404": [
+    {
+      "type": 0,
+      "value": "Error 404"
+    }
+  ],
+  "error-500": [
+    {
+      "type": 0,
+      "value": "Error 500"
+    }
+  ],
+  "ever-wallet": [
+    {
+      "type": 0,
+      "value": "EverWallet"
+    }
+  ],
+  "everscale": [
+    {
+      "type": 0,
+      "value": "EverScale"
+    }
+  ],
+  "files": [
+    {
+      "type": 0,
+      "value": "files"
+    }
+  ],
+  "first-time": [
+    {
+      "type": 0,
+      "value": "It's my first time with Qamon"
+    }
+  ],
+  "folder": [
+    {
+      "type": 0,
+      "value": "Folder"
+    }
+  ],
+  "folders": [
+    {
+      "type": 0,
+      "value": "Folders"
+    }
+  ],
+  "folders-ids": [
+    {
+      "type": 0,
+      "value": "Folders:"
+    }
+  ],
+  "go-back": [
+    {
+      "type": 0,
+      "value": "Go back"
+    }
+  ],
+  "have-you-ever": [
+    {
+      "type": 0,
+      "value": "Have you ever used Qamon?"
+    }
+  ],
+  "hours-ago": [
+    {
+      "type": 0,
+      "value": "hours ago"
+    }
+  ],
+  "in-web-version": [
+    {
+      "type": 0,
+      "value": "Downloading is available only in Web version"
+    }
+  ],
+  "inbox": [
+    {
+      "type": 0,
+      "value": "Inbox"
+    }
+  ],
+  "incorrect-password": [
+    {
+      "type": 0,
+      "value": "Wrong password, try again"
+    }
+  ],
+  "install": [
+    {
+      "type": 0,
+      "value": "Install"
+    }
+  ],
+  "internal-error": [
+    {
+      "type": 0,
+      "value": "Internal error"
+    }
+  ],
+  "ive-used": [
+    {
+      "type": 0,
+      "value": "I've used Qamon before"
+    }
+  ],
+  "just-now": [
+    {
+      "type": 0,
+      "value": "just now"
+    }
+  ],
+  "language": [
+    {
+      "type": 0,
+      "value": "Language"
+    }
+  ],
+  "loading": [
+    {
+      "type": 0,
+      "value": "Loading..."
+    }
+  ],
+  "logout": [
+    {
+      "type": 0,
+      "value": "Log out"
+    }
+  ],
+  "mail": [
+    {
+      "type": 0,
+      "value": "Mail"
+    }
+  ],
+  "main-folders": [
+    {
+      "type": 0,
+      "value": "Main folders"
+    }
+  ],
+  "message": [
+    {
+      "type": 0,
+      "value": "Message:"
+    }
+  ],
+  "minutes-ago": [
+    {
+      "type": 0,
+      "value": "minutes ago"
+    }
+  ],
+  "name": [
+    {
+      "type": 0,
+      "value": "Name:"
+    }
+  ],
+  "no-new-mail": [
+    {
+      "type": 0,
+      "value": "You have no mails yet"
+    }
+  ],
+  "ok": [
+    {
+      "type": 0,
+      "value": "Ok"
+    }
+  ],
+  "page-not-found": [
+    {
+      "type": 0,
+      "value": "Page not found"
+    }
+  ],
+  "password-must-match": [
+    {
+      "type": 0,
+      "value": "Passwords must match"
+    }
+  ],
+  "please-save": [
+    {
+      "type": 0,
+      "value": "Please save it securely, because if you lose it, you will not be able to access your mail."
+    }
+  ],
+  "qamon-doesnt-save": [
+    {
+      "type": 0,
+      "value": "Qamon doesn't save your password anywhere, and we won't be able to help you recover it."
+    }
+  ],
+  "repeat-qamon-password": [
+    {
+      "type": 0,
+      "value": "Repeat Qamon password"
+    }
+  ],
+  "repeat-your-password": [
+    {
+      "type": 0,
+      "value": "Repeat your password"
+    }
+  ],
+  "reply": [
+    {
+      "type": 0,
+      "value": "Reply"
+    }
+  ],
+  "select": [
+    {
+      "type": 0,
+      "value": "Select"
+    }
+  ],
+  "send": [
+    {
+      "type": 0,
+      "value": "Send"
+    }
+  ],
+  "send-message": [
+    {
+      "type": 0,
+      "value": "Send message"
+    }
+  ],
+  "sent": [
+    {
+      "type": 0,
+      "value": "Sent"
+    }
+  ],
+  "settings": [
+    {
+      "type": 0,
+      "value": "Settings"
+    }
+  ],
+  "short-password": [
+    {
+      "type": 0,
+      "value": "Password is too short - should be 8 chars minimum"
+    }
+  ],
+  "signature": [
+    {
+      "type": 0,
+      "value": "Signature"
+    }
+  ],
+  "subject": [
+    {
+      "type": 0,
+      "value": "Subject:"
+    }
+  ],
+  "subject-too-long": [
+    {
+      "type": 0,
+      "value": "Subject too long"
+    }
+  ],
+  "submit": [
+    {
+      "type": 0,
+      "value": "Submit"
+    }
+  ],
+  "theme-1": [
+    {
+      "type": 0,
+      "value": "Theme 1"
+    }
+  ],
+  "theme-2": [
+    {
+      "type": 0,
+      "value": "Theme 2"
+    }
+  ],
+  "theme-3": [
+    {
+      "type": 0,
+      "value": "Theme 3"
+    }
+  ],
+  "theme-4": [
+    {
+      "type": 0,
+      "value": "Theme 4"
+    }
+  ],
+  "theme-5": [
+    {
+      "type": 0,
+      "value": "Theme 5"
+    }
+  ],
+  "this-password": [
+    {
+      "type": 0,
+      "value": "This password will be used to encrypt and decrypt your mails."
+    }
+  ],
+  "to": [
+    {
+      "type": 0,
+      "value": "To:"
+    }
+  ],
+  "to-continue": [
+    {
+      "type": 0,
+      "value": "To continue decrypt the message!"
+    }
+  ],
+  "type-here": [
+    {
+      "type": 0,
+      "value": "Type here"
+    }
+  ],
+  "we-found": [
+    {
+      "type": 0,
+      "value": "We found some wallets in your browser which you can use with Qamon"
+    }
+  ],
+  "welcome": [
+    {
+      "type": 0,
+      "value": "Welcome to Qamon"
+    }
+  ],
+  "your-drafts-mail": [
+    {
+      "type": 0,
+      "value": "Your draft mails are saved in your browser so you won't access on other device or if you clean your cache."
+    }
+  ],
+  "your-gate": [
+    {
+      "type": 0,
+      "value": "Your gate to the trustless world of communication."
+    }
+  ]
+}
